@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: n0bisuke's memo
+    title: n0bisuke's memo.
     content: |
       作りかけです。 work in progress.
   - section_id: about
