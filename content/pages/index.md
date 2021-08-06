@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: ':):)n0bisuke''s memo?!!!?!'
     content: |
-      作りかけです。
+      作りかけです。 work in progress.
   - section_id: about
     type: section_content
     title: About
