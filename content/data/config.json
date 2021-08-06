@@ -5,7 +5,7 @@
     "palette": "blue",
     "header": {
         "title": "n0bisuke's memo",
-        "tagline": "Header Tagline",
+        "tagline": "Hello",
         "profile_img": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -41,35 +41,35 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Protoout",
+                "url": "https://protoout.studio",
                 "style": "icon",
-                "icon_class": "instagram",
+                "icon_class": "dev",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/c/%E3%81%AE%E3%81%B3%E3%81%99%E3%81%91%E3%81%A8%E6%84%89%E5%BF%AB%E3%81%AA%E4%BB%B2%E9%96%93%E3%81%9F%E3%81%A1",
                 "style": "icon",
-                "icon_class": "linkedin",
+                "icon_class": "youtube",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://qiita.com/n0bisuke",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
@@ -79,5 +79,5 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://diligent-primrose-c80de.netlify.app"
+    "domain": "https://n0bisuke.github.io"
 }

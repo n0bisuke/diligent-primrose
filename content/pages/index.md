@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: ':):)n0bisuke''s memo?!!!?!'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      作りかけです。 work in progress.
   - section_id: about
     type: section_content
     title: About
@@ -29,8 +28,8 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: n0bisuke's memo
+  description: 'Please come visit this site as well. https://protoout.studio'
   extra:
     - name: 'og:type'
       value: website
