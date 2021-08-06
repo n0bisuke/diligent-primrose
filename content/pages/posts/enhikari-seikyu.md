@@ -4,7 +4,7 @@ excerpt: 解約したはずのインターネットサービスプロバイダ�
 date: '2021-07-20'
 thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
 thumb_img_alt: 7月分のご利用料金のお知らせ
-content_img_path: /images/beige-eggplant.png
+content_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
 content_img_alt: プロバイダーメール
 seo:
   title: Fragments of Iceland
