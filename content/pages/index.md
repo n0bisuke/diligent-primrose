@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: n0bisuke's memo
-  description: from AKIHABARA https
+  description: 'Please come visit this site. '
   extra:
     - name: 'og:type'
       value: website
