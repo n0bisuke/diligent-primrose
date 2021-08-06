@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: n0bisuke's memo
-  description: The preview of the Fresh theme
+  description: from AKIHABARA https
   extra:
     - name: 'og:type'
       value: website
