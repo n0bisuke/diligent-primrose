@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: n0bisuke's memo
-  description: 'Please come visit this site. '
+  description: 'Please come visit this site as well. https://protoout.studio'
   extra:
     - name: 'og:type'
       value: website
