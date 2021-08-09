@@ -6,7 +6,7 @@ thumb_img_alt: ファイザー2回目接種した副反応など
 content_img_alt: プロバイダーメール
 excerpt: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
 seo:
-  title: Fragments of Iceland
+  title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'
