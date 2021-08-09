@@ -7,7 +7,7 @@ content_img_alt: プロバイダーメール
 excerpt: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
 seo:
   title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
   extra:
     - name: 'og:type'
       value: article
