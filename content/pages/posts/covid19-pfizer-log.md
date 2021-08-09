@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
-content_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
+content_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 ---
 解約したはずのインターネットサービスプロバイダーから請求が来てました。
 
