@@ -27,7 +27,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - run: npm ci
-      - run: npm run build
+      - run: NEXT_PUBLIC_GA_ID=${{secrets.NEXT_PUBLIC_GA_ID}} npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
