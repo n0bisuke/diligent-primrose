@@ -36,7 +36,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
+thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 content_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 ---
 細かくツイートしてたので、 [ワクチン接種してみたけど。。。 をまとめてみる #ワクチン #ファイザー ](https://togetter.com/li/1738272)にまとめてあります。
