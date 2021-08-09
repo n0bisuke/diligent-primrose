@@ -41,7 +41,4 @@ content_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 ---
 
 
-\[[ワクチン接種してみたけど。。。 をまとめてみる #ワクチン #ファイザー](https://togetter.com/li/1738272)]\(https://togetter.com/li/1738272)こちらの
-
-
-
+[ワクチン接種してみたけど。。。 をまとめてみる #ワクチン #ファイザー](https://togetter.com/li/1738272)
