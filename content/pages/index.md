@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: |
-      このページはメモとかをのこすぺーじです。
+      このページはメモとかを残していくページです。
     actions:
       - label: Contact Me
         url: /contact
