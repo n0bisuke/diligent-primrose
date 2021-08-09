@@ -4,10 +4,10 @@ subtitle: 噂通りですが1回目は筋肉痛、2回目が結構しんどか�
 date: '2021-07-20'
 thumb_img_alt: ファイザー2回目接種した副反応など
 content_img_alt: プロバイダーメール
-excerpt: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
+excerpt: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
+  description: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
   extra:
     - name: 'og:type'
       value: article
