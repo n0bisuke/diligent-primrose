@@ -2,7 +2,7 @@
 title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
 subtitle: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
 date: '2021-07-20'
-thumb_img_alt: 7月分のご利用料金のお知らせ
+thumb_img_alt: ファイザー2回目接種した副反応など
 content_img_alt: プロバイダーメール
 excerpt: 解約したはずのインターネットサービスプロバイダーから請求が来てました。
 seo:
@@ -36,7 +36,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-07-20 10.44.14.png
+thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 content_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 ---
 細かくツイートしてたので、 [ワクチン接種してみたけど。。。 をまとめてみる #ワクチン #ファイザー ](https://togetter.com/li/1738272)にまとめてあります。
