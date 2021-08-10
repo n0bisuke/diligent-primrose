@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg
       relativeUrl: true
 layout: advanced
 ---
