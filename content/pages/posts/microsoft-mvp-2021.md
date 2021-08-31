@@ -39,9 +39,9 @@ layout: post
 thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
-Microsoft MVP 2021-2022の受賞したよ的なメモです。
+Microsoft MVP 2021-2022の[受賞したよ](https://www.instagram.com/p/CTL3bFkLWdp/)的なメモです。
 
-> https://www.instagram.com/p/CTL3bFkLWdp/
+
 
 MS MVPって何？はこの辺りをご参照くださいませ。
 
@@ -59,9 +59,7 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 早いもので5回目の受賞らしいです。5回も受賞して頂いてるのに、この手の報告記事は初めて書いてます。
 
-もっとこまめに書かないとですね。
-
-> [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754)
+もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754) 
 
 
 
