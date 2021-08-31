@@ -36,7 +36,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
+thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
 Microsoft MVP 2021-2022の[受賞したよ](https://www.instagram.com/p/CTL3bFkLWdp/)的なメモです。
