@@ -61,7 +61,9 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 もっとこまめに書かないとですね。
 
-> https://mvp.microsoft.com/ja-jp/PublicProfile/5002754?fullName=Ryousuke%20n0bisuke%20Sugawara
+> [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754)
+
+
 
 ## コミュニティ活動はオンラインにシフト
 
