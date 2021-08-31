@@ -20,8 +20,6 @@ content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
 Microsoft MVP 2021-2022の[受賞したよ](https://www.instagram.com/p/CTL3bFkLWdp/)的なメモです。
 
-
-
 MS MVPって何？はこの辺りをご参照くださいませ。
 
 *   https://chomado.github.io/MS-MVP/
@@ -38,9 +36,7 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 早いもので5回目の受賞らしいです。5回も受賞して頂いてるのに、この手の報告記事は初めて書いてます。
 
-もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754) 
-
-
+もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754)
 
 ## コミュニティ活動はオンラインにシフト
 
@@ -48,7 +44,7 @@ Microsoft MVPだったりDevRelだったり、コミュニティ活動は今ま�
 
 逆にYoutubeのような動画コンテンツやポッドキャストのような音声コンテンツでの発信をする人が増えたような印象です。
 
-世の中的にシフトできた人とうまくシフト出来なかった人もいるんだろうなと思いつつ、僕が主催している\[IoTLT]\(http://iotlt.connpass.com/)はコロナ禍に入る前にYoutube配信を試してたりと、運が良かった気もします。
+世の中的にシフトできた人とうまくシフト出来なかった人もいるんだろうなと思いつつ、僕が主催している[IoTLT](https://iotlt.connpass.com)はコロナ禍に入る前にYoutube配信を試してたりと、運が良かった気もします。
 
 ## 引き続き精進します
 
