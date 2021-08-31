@@ -6,37 +6,16 @@ thumb_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 content_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 excerpt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 seo:
-  title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
-  description: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
+  description: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp メモ的な報告です。'
   extra:
     - name: 'og:type'
       value: article
       keyName: property
-    - name: 'og:title'
-      value: Fragments of Iceland
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-      keyName: property
-    - name: 'og:image'
-      value: images/7.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:title'
-      value: Fragments of Iceland
-    - name: 'twitter:description'
-      value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
-    - name: 'twitter:image'
-      value: images/7.jpg
-      relativeUrl: true
+  title: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
+thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
 Microsoft MVP 2021-2022の[受賞したよ](https://www.instagram.com/p/CTL3bFkLWdp/)的なメモです。
