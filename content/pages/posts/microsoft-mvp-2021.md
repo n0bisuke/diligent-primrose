@@ -6,7 +6,7 @@ thumb_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 content_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 excerpt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 seo:
-  description: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp 報告です。'
+  description: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp メモ的な報告です。'
   extra:
     - name: 'og:type'
       value: article
