@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 subtitle: タイトルくらいな報告ですが記録しておきます。
-date: '2021-07-20'
+date: '2021-08-20'
 thumb_img_alt: ファイザー2回目接種した副反応など
 content_img_alt: プロバイダーメール
 excerpt: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
