@@ -13,6 +13,7 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
+  title: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 layout: post
 thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
