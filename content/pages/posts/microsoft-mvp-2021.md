@@ -6,7 +6,7 @@ thumb_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 content_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 excerpt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 seo:
-  description: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
+  description: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp 報告です。'
   extra:
     - name: 'og:type'
       value: article
