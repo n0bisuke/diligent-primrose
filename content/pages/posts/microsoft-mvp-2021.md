@@ -26,6 +26,8 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 *   https://mvp.microsoft.com/ja-jp
 
+
+
 ## Developer Technologiesという割と幅広いカテゴリ
 
 よく、MSのMVP持ってるとAzureとか詳しいんですか？ とかOffice製品詳しいんですか？とか言われますが、僕はDeveloper Technologiesというカテゴリは幅広いカテゴリで受賞して頂いていて、MS製品詳しい認定って話ではないです。AzureをはじめとしたMS製品も仕事で多少使う場面あるので詳しくないとまで言い切りはしませんが、もっと詳しい人はいっぱいいます笑
