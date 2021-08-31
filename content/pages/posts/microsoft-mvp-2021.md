@@ -1,10 +1,10 @@
 ---
 title: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 subtitle: タイトルくらいな報告ですが記録しておきます。
-date: '2021-07-20'
-thumb_img_alt: ファイザー2回目接種した副反応など
-content_img_alt: プロバイダーメール
-excerpt: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
+date: '2021-08-31'
+thumb_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
+content_img_alt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
+excerpt: 'Microsoft MVP 2021-2022受賞しました。 #microsoftmvp'
 seo:
   title: 'ファイザー2回摂取した副反応など #ワクチン #ファイザー'
   description: 噂通りですが1回目は筋肉痛、2回目が結構しんどかったという話です。
@@ -39,9 +39,9 @@ layout: post
 thumb_img_path: /images/スクリーンショット 2021-08-10 1.37.30.png
 content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
-Microsoft MVP 2021-2022の受賞したよ的なメモです。
+Microsoft MVP 2021-2022の[受賞したよ](https://www.instagram.com/p/CTL3bFkLWdp/)的なメモです。
 
-> https://www.instagram.com/p/CTL3bFkLWdp/
+
 
 MS MVPって何？はこの辺りをご参照くださいませ。
 
@@ -53,25 +53,15 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 よく、MSのMVP持ってるとAzureとか詳しいんですか？ とかOffice製品詳しいんですか？とか言われますが、僕はDeveloper Technologiesというカテゴリは幅広いカテゴリで受賞して頂いていて、MS製品詳しい認定って話ではないです。AzureをはじめとしたMS製品も仕事で多少使う場面あるので詳しくないとまで言い切りはしませんが、もっと詳しい人はいっぱいいます笑
 
-!\[]\(https://i.gyazo.com/835846b5032c591b412a6abfbbd405eb.png)
-
-
-
-
-
-
-
-
-
-
+![](/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-08-31%209.56.24.png)
 
 ## 2017年から5回目の受賞
 
 早いもので5回目の受賞らしいです。5回も受賞して頂いてるのに、この手の報告記事は初めて書いてます。
 
-もっとこまめに書かないとですね。
+もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754) 
 
-> https://mvp.microsoft.com/ja-jp/PublicProfile/5002754?fullName=Ryousuke%20n0bisuke%20Sugawara
+
 
 ## コミュニティ活動はオンラインにシフト
 
