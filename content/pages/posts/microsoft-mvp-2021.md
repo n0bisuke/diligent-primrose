@@ -41,29 +41,17 @@ content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
 ---
 Microsoft MVP 2021-2022の受賞したよ的なメモです。
 
-
-
 > https://www.instagram.com/p/CTL3bFkLWdp/
 
-
-
 MS MVPって何？はこの辺りをご参照くださいませ。
-
-
 
 *   https://chomado.github.io/MS-MVP/
 
 *   https://mvp.microsoft.com/ja-jp
 
-
-
 ## Developer Technologiesという割と幅広いカテゴリ
 
 よく、MSのMVP持ってるとAzureとか詳しいんですか？ とかOffice製品詳しいんですか？とか言われますが、僕はDeveloper Technologiesというカテゴリは幅広いカテゴリで受賞して頂いていて、MS製品詳しい認定って話ではないです。AzureをはじめとしたMS製品も仕事で多少使う場面あるので詳しくないとまで言い切りはしませんが、もっと詳しい人はいっぱいいます笑
-
-
-
-
 
 !\[]\(https://i.gyazo.com/835846b5032c591b412a6abfbbd405eb.png)
 
@@ -71,19 +59,19 @@ MS MVPって何？はこの辺りをご参照くださいませ。
 
 
 
+
+
+
+
+
+
 ## 2017年から5回目の受賞
-
-
 
 早いもので5回目の受賞らしいです。5回も受賞して頂いてるのに、この手の報告記事は初めて書いてます。
 
 もっとこまめに書かないとですね。
 
-
-
 > https://mvp.microsoft.com/ja-jp/PublicProfile/5002754?fullName=Ryousuke%20n0bisuke%20Sugawara
-
-
 
 ## コミュニティ活動はオンラインにシフト
 
@@ -91,18 +79,12 @@ Microsoft MVPだったりDevRelだったり、コミュニティ活動は今ま�
 
 逆にYoutubeのような動画コンテンツやポッドキャストのような音声コンテンツでの発信をする人が増えたような印象です。
 
-
-
 世の中的にシフトできた人とうまくシフト出来なかった人もいるんだろうなと思いつつ、僕が主催している\[IoTLT]\(http://iotlt.connpass.com/)はコロナ禍に入る前にYoutube配信を試してたりと、運が良かった気もします。
 
-
-
 ## 引き続き精進します
-
-
 
 ありがたいことに継続して認定して頂いています。
 
 コミュニティ活動の原動力にもなったりするのでありがたいです。
 
-引き続き精進します。![](https://i.gyazo.com/835846b5032c591b412a6abfbbd405eb.png)
+引き続き精進します。
