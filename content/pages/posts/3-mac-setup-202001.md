@@ -17,7 +17,7 @@ seo:
       value: summary_large_image
   title: 僕がMacを買い換えてすぐにいれるツール&すぐにする初期設定【2020年1月版】
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
+thumb_img_path: /images/スクリーンショット 2021-10-13 1.39.23-840949e6.png
 content_img_path: /images/スクリーンショット 2021-10-13 1.39.23.png
 ---
 
