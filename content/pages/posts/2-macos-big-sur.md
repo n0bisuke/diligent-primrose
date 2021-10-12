@@ -15,7 +15,7 @@ seo:
       value: summary_large_image
   title: 人柱覚悟でさっそくmacOS Big Surにしてみました。
 layout: post
-thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
+thumb_img_path: /images/スクリーンショット 2021-10-13 1.38.28-e0730816.png
 content_img_path: /images/スクリーンショット 2021-10-13 1.38.28.png
 ---
 
