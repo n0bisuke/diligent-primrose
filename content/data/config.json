@@ -9,7 +9,7 @@
         "profile_img": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
