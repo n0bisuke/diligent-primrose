@@ -1,5 +1,5 @@
 ---
-title: 'LINE OpenChatを使ってみたので始め方を解説してみる - #openchat'
+title: 'LINE OpenChatを使ってみたので始め方を解説 - #openchat'
 subtitle: 'LINE OpenChatを使ってみたので始め方を解説してみる - #openchat'
 date: '2019-08-09'
 thumb_img_alt: 'INE OpenChatを使ってみたので始め方を解説してみる - #openchat'
