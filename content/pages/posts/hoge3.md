@@ -30,13 +30,13 @@ MS MVPって何？はこの辺りをご参照下さいませ。
 
 よく、MSのMVP持ってるとAzureとか詳しいんですか？ とかOffice製品詳しいんですか？とか言われますが、僕はDeveloper Technologiesというカテゴリは幅広いカテゴリで受賞して頂いていて、MS製品詳しい認定って話ではないです。AzureをはじめとしたMS製品も仕事で多少使う場面あるので詳しくないとまで言い切りはしませんが、もっと詳しい人はいっぱいいます笑
 
-![](/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202021-08-31%209.56.24.png)
+![](/images/undefined82undefinedE3undefinedAFundefined83undefinedE3undefinedBCundefined83undefinedE3undefinedB7undefined83undefinedE3undefined83undefined83undefined202021-08-31%209.56.24.png)
 
 ## 2017年から5回目の受賞
 
 早いもので5回目の受賞らしいです。5回も受賞して頂いてるのに、この手の報告記事は初めて書いてます。
 
-もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousuke%20n0bisuke%20Sugawara-5002754)
+もっとこまめに書かないとですね。 [MVP のページ](https://mvp.microsoft.com/ja-jp/mvp/Ryousukeundefined20Sugawara-5002754)
 
 ## コミュニティ活動はオンラインにシフト
 
