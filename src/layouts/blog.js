@@ -28,7 +28,7 @@ export default class Blog extends React.Component {
                         <h2 className="post-title">
                             <Link href={postUrl} rel="bookmark">{title}</Link>
                         </h2>
-                                                <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                        <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </header>
                     {excerpt && (
                         <div className="post-content">
