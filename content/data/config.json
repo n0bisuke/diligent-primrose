@@ -1,7 +1,7 @@
 {
     "title": "n0bisuke's memo",
     "path_prefix": "/",
-    "layout_style": "overflow",
+    "layout_style": "simple",
     "palette": "blue",
     "header": {
         "title": "n0bisuke's memo",
@@ -79,5 +79,6 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://n0bisuke.github.io"
+    "domain": "https://n0bisuke.github.io",
+    "favicon": "/images/b3d6de77-6c25-4b2a-84bb-10d593ef119b-eee94ab8.jpg"
 }
