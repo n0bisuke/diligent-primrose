@@ -1,22 +1,22 @@
 ---
-title: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
-subtitle: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
+title: 人柱覚悟でさっそくmacOS Big Surにしてみました。
+subtitle: 人柱覚悟でさっそくmacOS Big Surにしてみました。
 date: '2020-11-15'
-thumb_img_alt: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
-content_img_alt: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
-excerpt: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
+thumb_img_alt: 人柱覚悟でさっそくmacOS Big Surにしてみました。
+content_img_alt: 人柱覚悟でさっそくmacOS Big Surにしてみました。
+excerpt: 人柱覚悟でさっそくmacOS Big Surにしてみました。
 seo:
-  description: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
+  description: 人柱覚悟でさっそくmacOS Big Surにしてみました。
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
-  title: '人柱覚悟でさっそくmacOS Big Surにしてみました。'
+  title: 人柱覚悟でさっそくmacOS Big Surにしてみました。
 layout: post
 thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
-content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
+content_img_path: /images/スクリーンショット 2021-10-13 1.38.28.png
 ---
 
 こんにちは、[n0bisuke](https://twitter.com/n0bisuke)です。
