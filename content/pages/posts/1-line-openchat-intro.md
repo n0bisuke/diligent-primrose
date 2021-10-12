@@ -16,7 +16,7 @@ seo:
   title: 'INE OpenChatを使ってみたので始め方を解説してみる - #openchat'
 layout: post
 thumb_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
-content_img_path: /images/スクリーンショット 2021-08-31 9.43.20.png
+content_img_path: /images/スクリーンショット 2021-10-13 1.33.11.png
 ---
 
 
