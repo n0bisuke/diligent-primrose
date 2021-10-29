@@ -1,7 +1,7 @@
 ---
 title: 人柱覚悟でさっそくmacOS Montereyにしてみました。
 subtitle: 人柱覚悟でさっそくmacOS Montereyにしてみました。
-date: '2020-11-15'
+date: '2021-10-29'
 thumb_img_alt: 人柱覚悟でさっそくmacOS Montereyにしてみました。
 content_img_alt: 人柱覚悟でさっそくmacOS Montereyにしてみました。
 excerpt: 人柱覚悟でさっそくmacOS Montereyにしてみました。
