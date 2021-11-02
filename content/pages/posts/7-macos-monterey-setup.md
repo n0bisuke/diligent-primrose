@@ -58,7 +58,7 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 ## では人柱覚悟でアップデートしていきます
 
-公式サイト](https://www.apple.com/jp/macos/big-sur/)からアップデートするかApp Storeから直接Montereyを探しましょう。
+公式サイトからアップデートするかApp Storeから直接Montereyを探しましょう。
 
 ![](https://i.gyazo.com/c33ccd7a7b03a9a1348b77632a964a45.jpg)
 
