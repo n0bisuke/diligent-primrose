@@ -128,7 +128,8 @@ mac OS Montery
 
 > ![スクリーンショット 2021-10-29 19.10.52.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/3d249f7c-65a8-49f8-fd29-b71f6e2416d4.png "スクリーンショット 2021-10-29 19.10.52.png")
 
-## 気になる使い勝手
+
+## 気になる使い勝手や変わったところを覗いてみる
 
 - AirPlayをmacへ
 - スクリーンショットをiPhone共有
