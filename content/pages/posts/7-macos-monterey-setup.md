@@ -37,7 +37,7 @@ macOS Montereyが出ましたね。
 
 `モントレー`と読むみたいです。
 
-YosemiteやCatalinaと同じ地名の流れです。
+YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 そして **なんとmacOSのバージョンは11！**
 
