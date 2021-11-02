@@ -29,6 +29,8 @@ macOS Montereyが出ましたね。
 
 > 参考: [人柱覚悟でさっそくmacOS Mojaveにしてみました。](https://dotstud.io/blog/macos-mojave-update-process/)
 
+> 参考: []
+
 ## macOS Monterey（モントレイ）、メジャーアップデートのバージョン12！
 
 ![](https://i.gyazo.com/7923e214f07caf501d847b4985820913.jpg)
