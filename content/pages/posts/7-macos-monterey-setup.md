@@ -60,6 +60,95 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 公式サイトからアップデートするかApp Storeから直接Montereyを探しましょう。
 
+mac OS Montery
+
+
+## いざ、アップデートしていきます
+
+
+システム環境設定からアップデートしていきます。
+
+> ![スクリーンショット 2021-10-28 11.16.51.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/ac1e40ad-a219-d285-aee7-efb78cd1bc9b.png "スクリーンショット 2021-10-28 11.16.51.png")
+
+アップデートのためにMontereyのイメージをDLしますが、この時点で12GBの空き容量が必要と言われます。
+
+> ![スクリーンショット 2021-10-28 11.10.02.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/ab435a51-cd43-dfe7-b50d-2057e1c5bd84.png "スクリーンショット 2021-10-28 11.10.02.png")
+
+イメージのDLが完了したらいざアップデートをしていきましょう。
+
+> ![スクリーンショット 2021-10-28 14.26.26.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/2100eb50-9540-439b-5421-65016603148f.png "スクリーンショット 2021-10-28 14.26.26.png")
+
+### ウィザード
+
+同意
+
+> ![スクリーンショット 2021-10-28 11.40.09.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/13f0d5e1-34e4-4f21-a7eb-227d626cdda6.png "スクリーンショット 2021-10-28 11.40.09.png")
+
+同意
+
+
+> ![スクリーンショット 2021-10-28 11.40.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/d7aa5640-bae0-ac61-1ffa-5b1bee5e333d.png "スクリーンショット 2021-10-28 11.40.17.png")
+
+ずーん、容量不足
+
+17BG欲しいと言われた。
+
+> ![スクリーンショット 2021-10-28 11.40.24.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/54812a6a-964d-1827-8316-4becb53be78b.png "スクリーンショット 2021-10-28 11.40.24.png")
+
+### 容量の旅に
+
+- .npmの削除
+- node_modulesの削除
+- gitリポジトリ削除
+- LINE削除
+- MS Teams削除
+- ダビンチリゾルブ削除
+- Arduino IDE削除
+
+### やっと先に進めた
+
+ここからインストールスタート 1時間くらい掛かるっぽい
+
+> ![スクリーンショット 2021-10-28 14.26.44.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/567e9843-2731-981d-f365-3859b2c35092.png "スクリーンショット 2021-10-28 14.26.44.png")
+
+.
+.
+.
+
+1時間後
+
+> ![スクリーンショット 2021-10-28 14.50.56.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/cc530a39-0106-fc15-2674-5b8b15c7360e.png "スクリーンショット 2021-10-28 14.50.56.png")
+
+再起動繰り返します。
+
+> ![スクリーンショット 2021-10-28 14.56.55.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/f758db5d-6383-9ade-8324-7403e7d0d07d.png "スクリーンショット 2021-10-28 14.56.55.png")
+
+
+### アップデート完了！
+
+> ![スクリーンショット 2021-10-29 19.10.52.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/3d249f7c-65a8-49f8-fd29-b71f6e2416d4.png "スクリーンショット 2021-10-29 19.10.52.png")
+
+## 気になる使い勝手
+
+- AirPlayをmacへ
+- スクリーンショットをiPhone共有
+- ショートカット
+- 省電力モード
+
+あたりが使えた
+
+## 不具合
+
+- gitはそのまま使えた
+- hyperが使えなくなった
+	- iteamいれてみた
+
+## まとめ
+
+今のところいい感じ
+
+
+
 ![](https://i.gyazo.com/c33ccd7a7b03a9a1348b77632a964a45.jpg)
 
 まずはMontereyインストールアプリのダウンロードからです。先ほど書いた12GBほどのファイルをダウンロードします。
