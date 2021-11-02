@@ -48,7 +48,7 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 実際にアップデートをしていきますが、アップデート前はCatalinaでした。
 
 * MacBook Pro （13-inch 2019）
-* macOS Catalina v10.15
+* macOS Big Sur v11
 
 ## 27GBくらいの空き容量が必要
 
