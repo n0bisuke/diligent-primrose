@@ -7,7 +7,7 @@
     "dev": "next dev",
     "develop": "next dev",
     "fetch": "sourcebit fetch",
-    "build": "next build && next export",
+    "build": "next build && next export && next-sitemap --config sitemap.config.js",
     "start": "next start"
   },
   "dependencies": {
@@ -30,6 +30,7 @@
     "webpack": "^5.24.1"
   },
   "devDependencies": {
+    "next-sitemap": "^1.6.199",
     "prettier": "^2.2.1"
   }
 }
