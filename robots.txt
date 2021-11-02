@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://n0bisuke.github.io
+
+# Sitemaps
+Sitemap: https://n0bisuke.github.io/sitemap.xml
