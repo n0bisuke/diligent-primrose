@@ -32,8 +32,6 @@ export default class Post extends React.Component {
                         </div>
                     )}
                     
-                    <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=smp&banner=1CNSA26KEPD6AEPR7QG2&f=ifr&linkID={{link_id}}&t=n0bisuke-22&tracking_id=n0bisuke-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     <footer className="post-meta inner-sm">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
