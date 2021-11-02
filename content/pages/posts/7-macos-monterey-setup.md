@@ -43,13 +43,7 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 ちなみにCatalina（バージョン10.15）まではずっと10.xxというマイナーバージョンアップのナンバリングでしたがBig Surで一気にv11にメジャーバージョンアップしました。
 
-僕が最初にMacを触ったときからずっとバージョン10系だったのですが、Appleが2000年にリリースした[Mac OS X Publis Beta](https://ja.wikipedia.org/wiki/Mac_OS_X_Public_Beta)以来のアップデートということで **20年ぶりのアップデート**ということです。
-
-僕のMac人生的には初めてのメジャーバージョンアップです。
-
-これを知ったらすごくテンション上がりました（笑）
-
-Intel製のチップからAplle独自のチップに切り替えたMacが発売されるということで話題ですが、新チップ搭載Macへの移行を確実にするためのテクノロジーが盛り込まれているとされています。
+新チップのM1への移行や、iOS
 
 > 参考: [Apple、MacのAppleシリコンへの移行を発表](https://www.apple.com/jp/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/)
 > AppleはmacOS Montereyに、Appleシリコンへの移行をスムーズかつシームレスに進められるように、さまざまなテクノロジーを搭載しています。
