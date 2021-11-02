@@ -39,7 +39,7 @@ macOS Montereyが出ましたね。
 
 YosemiteやCatalina、BigSurと同じ地名の流れです。
 
-そして **なんとmacOSのバージョンは12！**
+そして **なんとmacOSのバージョンは12！**ということで、BigSur
 
 Catalina（バージョン10.15）の後続ですが、メジャーナンバリングがアップデートされました。
 
