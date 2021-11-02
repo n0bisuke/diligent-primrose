@@ -43,7 +43,7 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 ちなみにCatalina（バージョン10.15）まではずっと10.xxというマイナーバージョンアップのナンバリングでしたがBig Surで一気にv11にメジャーバージョンアップしました。
 
-新チップのM1への移行や、iOS
+新チップのM1への移行や、iOSなどとの統合
 
 > 参考: [Apple、MacのAppleシリコンへの移行を発表](https://www.apple.com/jp/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/)
 > AppleはmacOS Montereyに、Appleシリコンへの移行をスムーズかつシームレスに進められるように、さまざまなテクノロジーを搭載しています。
