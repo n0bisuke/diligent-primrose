@@ -16,7 +16,7 @@ seo:
   title: 人柱覚悟でさっそくmacOS Montereyにしてみました。
 layout: post
 thumb_img_path: /images/スクリーンショット 2021-11-02 15.35.39.png
-content_img_path: /images/スクリーンショット 2021-10-13 1.38.28.png
+content_img_path: /images/スクリーンショット 2021-11-02 15.35.39-0a39335e.png
 ---
 
 こんにちは、[n0bisuke](https://twitter.com/n0bisuke)です。
