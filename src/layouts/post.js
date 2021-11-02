@@ -31,6 +31,8 @@ export default class Post extends React.Component {
                             <img src={withPrefix(image)} alt={imageAlt} />
                         </div>
                     )}
+
+                    
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
                     <footer className="post-meta inner-sm">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
