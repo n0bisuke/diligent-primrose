@@ -29,39 +29,26 @@ macOS Montereyが出ましたね。
 
 > 参考: [人柱覚悟でさっそくmacOS Mojaveにしてみました。](https://dotstud.io/blog/macos-mojave-update-process/)
 
-## macOS Monterey（モントレイ）、メジャーアップデートのバージョン12！
+> 参考: [人柱覚悟でさっそくmacOS BigSurにしてみました。](https://n0bisuke.github.io/posts/2-macos-big-sur/)
+
+## macOS Monterey（モントレー）、メジャーアップデートのバージョン12！
 
 ![](https://i.gyazo.com/7923e214f07caf501d847b4985820913.jpg)
 
-`ビッグサー`と読みます。最初イエッサー（yes sir）的な敬称かと思ってネーミング変えてきたなと思ったんですけど、調べたらカリフォルニアの観光スポットらしいですね。
+`モントレー`と読むみたいです。
 
-YosemiteやCatalinaと同じ地名の流れです。
+YosemiteやCatalina、BigSurと同じ地名の流れです。
 
-そして **なんとmacOSのバージョンは11！**
+そして **なんとmacOSのバージョンは12！**ということで、BigSurのときと同様にメジャーバージョンが上がってますね。
 
-Catalina（バージョン10.15）の後続ですが、メジャーナンバリングがアップデートされました。
-
-僕が最初にMacを触ったときからずっとバージョン10系だったのですが、Appleが2000年にリリースした[Mac OS X Publis Beta](https://ja.wikipedia.org/wiki/Mac_OS_X_Public_Beta)以来のアップデートということで **20年ぶりのアップデート**ということです。
-
-僕のMac人生的には初めてのメジャーバージョンアップです。
-
-これを知ったらすごくテンション上がりました（笑）
-
-Intel製のチップからAplle独自のチップに切り替えたMacが発売されるということで話題ですが、新チップ搭載Macへの移行を確実にするためのテクノロジーが盛り込まれているとされています。
-
-> 参考: [Apple、MacのAppleシリコンへの移行を発表](https://www.apple.com/jp/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/)
-> AppleはmacOS Montereyに、Appleシリコンへの移行をスムーズかつシームレスに進められるように、さまざまなテクノロジーを搭載しています。
-
-iOSとiPad OSのアプリも動作する予定となっている模様です。
-
-詳細は[Wikipedia](https://ja.wikipedia.org/wiki/MacOS_Big_Sur)もご確認下さい。
+ちなみにCatalina（バージョン10.15）まではずっと10.xxというマイナーバージョンアップのナンバリングでしたがBig Surで一気にv11にメジャーバージョンアップしました。
 
 ## アップデートする僕のMacBookのマシンスペック
 
 実際にアップデートをしていきますが、アップデート前はCatalinaでした。
 
 * MacBook Pro （13-inch 2019）
-* macOS Catalina v10.15
+* macOS Big Sur v11
 
 ## 27GBくらいの空き容量が必要
 
@@ -69,11 +56,98 @@ iOSとiPad OSのアプリも動作する予定となっている模様です。
 
 `Montereyインストールアプリが12GBくらい`と`インストール時に14GBくらいの空き容量が必要`で合計27GBくらいのストレージ容量を先に確保しておきましょう。
 
-![](https://i.gyazo.com/1554cdbf6bc0a8b4d5e013a4f4963eac.png)
-
 ## では人柱覚悟でアップデートしていきます
 
-[公式サイト](https://www.apple.com/jp/macos/big-sur/)からアップデートするかApp Storeから直接Montereyを探しましょう。
+公式サイトからアップデートするかApp Storeから直接Montereyを探しましょう。
+
+mac OS Montery
+
+
+## いざ、アップデートしていきます
+
+
+システム環境設定からアップデートしていきます。
+
+> ![スクリーンショット 2021-10-28 11.16.51.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/ac1e40ad-a219-d285-aee7-efb78cd1bc9b.png "スクリーンショット 2021-10-28 11.16.51.png")
+
+アップデートのためにMontereyのイメージをDLしますが、この時点で12GBの空き容量が必要と言われます。
+
+> ![スクリーンショット 2021-10-28 11.10.02.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/ab435a51-cd43-dfe7-b50d-2057e1c5bd84.png "スクリーンショット 2021-10-28 11.10.02.png")
+
+イメージのDLが完了したらいざアップデートをしていきましょう。
+
+> ![スクリーンショット 2021-10-28 14.26.26.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/2100eb50-9540-439b-5421-65016603148f.png "スクリーンショット 2021-10-28 14.26.26.png")
+
+### ウィザード
+
+同意
+
+> ![スクリーンショット 2021-10-28 11.40.09.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/13f0d5e1-34e4-4f21-a7eb-227d626cdda6.png "スクリーンショット 2021-10-28 11.40.09.png")
+
+同意
+
+
+> ![スクリーンショット 2021-10-28 11.40.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/d7aa5640-bae0-ac61-1ffa-5b1bee5e333d.png "スクリーンショット 2021-10-28 11.40.17.png")
+
+ずーん、容量不足
+
+17BG欲しいと言われた。
+
+> ![スクリーンショット 2021-10-28 11.40.24.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/54812a6a-964d-1827-8316-4becb53be78b.png "スクリーンショット 2021-10-28 11.40.24.png")
+
+### 容量の旅に
+
+- .npmの削除
+- node_modulesの削除
+- gitリポジトリ削除
+- LINE削除
+- MS Teams削除
+- ダビンチリゾルブ削除
+- Arduino IDE削除
+
+### やっと先に進めた
+
+ここからインストールスタート 1時間くらい掛かるっぽい
+
+> ![スクリーンショット 2021-10-28 14.26.44.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/567e9843-2731-981d-f365-3859b2c35092.png "スクリーンショット 2021-10-28 14.26.44.png")
+
+.
+.
+.
+
+1時間後
+
+> ![スクリーンショット 2021-10-28 14.50.56.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/cc530a39-0106-fc15-2674-5b8b15c7360e.png "スクリーンショット 2021-10-28 14.50.56.png")
+
+再起動繰り返します。
+
+> ![スクリーンショット 2021-10-28 14.56.55.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/f758db5d-6383-9ade-8324-7403e7d0d07d.png "スクリーンショット 2021-10-28 14.56.55.png")
+
+
+### アップデート完了！
+
+> ![スクリーンショット 2021-10-29 19.10.52.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/3d249f7c-65a8-49f8-fd29-b71f6e2416d4.png "スクリーンショット 2021-10-29 19.10.52.png")
+
+## 気になる使い勝手
+
+- AirPlayをmacへ
+- スクリーンショットをiPhone共有
+- ショートカット
+- 省電力モード
+
+あたりが使えた
+
+## 不具合
+
+- gitはそのまま使えた
+- hyperが使えなくなった
+	- iteamいれてみた
+
+## まとめ
+
+今のところいい感じ
+
+
 
 ![](https://i.gyazo.com/c33ccd7a7b03a9a1348b77632a964a45.jpg)
 
