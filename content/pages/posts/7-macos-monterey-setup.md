@@ -56,8 +56,6 @@ YosemiteやCatalina、BigSurと同じ地名の流れです。
 
 `Montereyインストールアプリが12GBくらい`と`インストール時に14GBくらいの空き容量が必要`で合計27GBくらいのストレージ容量を先に確保しておきましょう。
 
-![](https://i.gyazo.com/1554cdbf6bc0a8b4d5e013a4f4963eac.png)
-
 ## では人柱覚悟でアップデートしていきます
 
 [公式サイト](https://www.apple.com/jp/macos/big-sur/)からアップデートするかApp Storeから直接Montereyを探しましょう。
