@@ -31,11 +31,11 @@ macOS Montereyが出ましたね。
 
 > 参考: [人柱覚悟でさっそくmacOS BigSurにしてみました。](https://n0bisuke.github.io/posts/2-macos-big-sur/)
 
-## macOS Monterey（モントレイ）、メジャーアップデートのバージョン12！
+## macOS Monterey（モントレー）、メジャーアップデートのバージョン12！
 
 ![](https://i.gyazo.com/7923e214f07caf501d847b4985820913.jpg)
 
-`モントレー`と読みます。最初イエッサー（yes sir）的な敬称かと思ってネーミング変えてきたなと思ったんですけど、調べたらカリフォルニアの観光スポットらしいですね。
+`モントレー`と読むみたいです。
 
 YosemiteやCatalinaと同じ地名の流れです。
 
