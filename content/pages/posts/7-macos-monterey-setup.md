@@ -172,7 +172,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 あたりが使えた
 
-> 参考: [](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
+> 参考: [macOS Montereryでできるようになった15のコト](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
 
 
 ## 不具合
