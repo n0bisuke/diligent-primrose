@@ -33,7 +33,7 @@ macOS Montereyが出ましたね。
 
 また、一部のmacが文鎮化する事象が発生しています。
 
-> 参考: [](https://iphone-mania.jp/news-416763/)
+> 参考: [macOS Montereyへアップデートした一部のMacが文鎮化](https://iphone-mania.jp/news-416763/)
 
 
 
