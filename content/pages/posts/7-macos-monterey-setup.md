@@ -105,7 +105,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 - .npmの削除
 - node_modulesの削除
 - gitリポジトリ削除
-    - GitHubに
+    - 大体のものがGitHubに上げてあるので
 - LINE削除
 - MS Teams削除
 - ダビンチリゾルブ削除
