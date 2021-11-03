@@ -169,13 +169,13 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 > 参考: [macOS Montereryでできるようになった15のコト](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
 
-### AirPlayをmacへ
+### ■ AirPlayをmacへ
 
-### スクリーンショットをiPhone共有
+### ■ スクリーンショットをiPhone共有
 
-### ショートカット
+### ■ ショートカット
 
-### 省電力モード
+### ■ 省電力モード
 
 これかなり良さそうです。
 
