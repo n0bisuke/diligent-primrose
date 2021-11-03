@@ -92,7 +92,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 > ![スクリーンショット 2021-10-28 11.40.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/d7aa5640-bae0-ac61-1ffa-5b1bee5e333d.png "スクリーンショット 2021-10-28 11.40.17.png")
 
-容量不足
+容量不足らしいです。
 
 17BG欲しいと言われました。
 
