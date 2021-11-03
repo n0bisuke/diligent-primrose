@@ -88,8 +88,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 > ![スクリーンショット 2021-10-28 11.40.09.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/13f0d5e1-34e4-4f21-a7eb-227d626cdda6.png "スクリーンショット 2021-10-28 11.40.09.png")
 
-同意
-
+同意して進めます。
 
 > ![スクリーンショット 2021-10-28 11.40.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/d7aa5640-bae0-ac61-1ffa-5b1bee5e333d.png "スクリーンショット 2021-10-28 11.40.17.png")
 
