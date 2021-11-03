@@ -84,7 +84,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 ### ウィザード
 
-同意
+同意を求めれます。
 
 > ![スクリーンショット 2021-10-28 11.40.09.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/13f0d5e1-34e4-4f21-a7eb-227d626cdda6.png "スクリーンショット 2021-10-28 11.40.09.png")
 
