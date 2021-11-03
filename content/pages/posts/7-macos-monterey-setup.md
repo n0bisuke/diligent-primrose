@@ -35,8 +35,6 @@ macOS Montereyが出ましたね。
 
 > 参考: [macOS Montereyへアップデートした一部のMacが文鎮化](https://iphone-mania.jp/news-416763/)
 
-
-
 ## macOS Monterey（モントレー）、メジャーアップデートのバージョン12！
 
 ![](https://i.gyazo.com/65ca38b3e37b83102146e9dd326957e2.jpg)
