@@ -169,6 +169,8 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 > 参考: [macOS Montereryでできるようになった15のコト](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
 
+各機能の詳細は参考記事などを参照下さい。
+
 ### ■ macに対してAirPlay
 
 最近Spotifyで音楽を聞くのですが、これ結構面白い機能です。
