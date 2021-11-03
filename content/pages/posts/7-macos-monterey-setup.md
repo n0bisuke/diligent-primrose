@@ -25,13 +25,15 @@ macOS Montereyが出ましたね。
 
 毎度記事化してみてるので、今回もアップデートしてみたいと思います。
 
+> 参考: [人柱覚悟でさっそくmacOS Mojaveにしてみました。](https://dotstud.io/blog/macos-mojave-update-process/)
+
+> 参考: [人柱覚悟でさっそくmacOS BigSurにしてみました。](https://n0bisuke.github.io/posts/2-macos-big-sur/)
+
 **ちなみに今回は「実際にmacOS Montereyにアップデートしてみたレポート」ですので、試す際にもしトラブルが発生しても当ブログでは責任は負いません。**
 
 また、一部のmacが文鎮化する事象が
 
-> 参考: [人柱覚悟でさっそくmacOS Mojaveにしてみました。](https://dotstud.io/blog/macos-mojave-update-process/)
 
-> 参考: [人柱覚悟でさっそくmacOS BigSurにしてみました。](https://n0bisuke.github.io/posts/2-macos-big-sur/)
 
 ## macOS Monterey（モントレー）、メジャーアップデートのバージョン12！
 
