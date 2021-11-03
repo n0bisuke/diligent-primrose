@@ -33,6 +33,7 @@ export default class Post extends React.Component {
                     )}
                     
                     {markdownContent && <div className="post-content inner-sm">{markdownify(markdownContent)}</div>}
+                    
                     <footer className="post-meta inner-sm">
                         <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </footer>

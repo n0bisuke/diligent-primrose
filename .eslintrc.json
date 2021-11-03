@@ -3,6 +3,7 @@
         "node" : true,
         "es6": true
     },
+    "ignorePatterns": ["*.config.js"],
     "extends": "eslint:recommended",
     "parserOptions": {
         "ecmaVersion": 2018
