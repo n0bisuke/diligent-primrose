@@ -102,7 +102,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 ### 容量の旅に
 
-[](http://www.derlien.com/)
+[Disk Inventory X](http://www.derlien.com/)を使って
 
 - .npmの削除
     - キャッシュが結構容量を食ってます。
