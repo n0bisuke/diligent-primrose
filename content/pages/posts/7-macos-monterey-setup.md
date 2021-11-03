@@ -102,7 +102,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 ### 容量の旅に
 
-[Disk Inventory X](http://www.derlien.com/)を使って
+[Disk Inventory X](http://www.derlien.com/)を使ってHDの中のどこで容量を食っているのかを調べて削除していきました。
 
 - .npmの削除
     - キャッシュが結構容量を食ってます。
