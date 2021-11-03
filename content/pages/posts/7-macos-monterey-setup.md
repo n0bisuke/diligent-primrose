@@ -37,7 +37,7 @@ macOS Montereyが出ましたね。
 
 ## macOS Monterey（モントレー）、メジャーアップデートのバージョン12！
 
-![](https://i.gyazo.com/65ca38b3e37b83102146e9dd326957e2.jpg)
+> ![](https://i.gyazo.com/65ca38b3e37b83102146e9dd326957e2.jpg)
 
 `モントレー`と読むみたいです。
 
