@@ -119,7 +119,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 - Arduino IDE削除
     - Arduino関連も一旦削除
 
-Google Chromeが内部キャッシュで
+だいたいこGoogle Chromeが内部キャッシュで
 
 ### やっと先に進めた
 
