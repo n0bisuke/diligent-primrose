@@ -92,9 +92,11 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 > ![スクリーンショット 2021-10-28 11.40.17.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/d7aa5640-bae0-ac61-1ffa-5b1bee5e333d.png "スクリーンショット 2021-10-28 11.40.17.png")
 
-ずーん、容量不足
+容量不足
 
-17BG欲しいと言われた。
+17BG欲しいと言われました。
+
+ずーん...
 
 > ![スクリーンショット 2021-10-28 11.40.24.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/54812a6a-964d-1827-8316-4becb53be78b.png "スクリーンショット 2021-10-28 11.40.24.png")
 
