@@ -153,6 +153,10 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 しばらく待っていると...
 
+> ![](https://i.gyazo.com/5253b8deea13695e2ac1769b9c5528bf.jpg)
+
+ログイン画面が来ました！
+
 ### アップデート完了！
 
 > ![スクリーンショット 2021-10-29 19.10.52.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/35387/3d249f7c-65a8-49f8-fd29-b71f6e2416d4.png "スクリーンショット 2021-10-29 19.10.52.png")
