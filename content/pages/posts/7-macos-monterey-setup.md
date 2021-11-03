@@ -165,6 +165,10 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 ## 気になる使い勝手や変わったところを覗いてみる
 
+既に公開されてる情報などから
+
+> 参考: [macOS Montereryでできるようになった15のコト](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
+
 - AirPlayをmacへ
 - スクリーンショットをiPhone共有
 - ショートカット
@@ -172,7 +176,7 @@ Big Surの時は27GBくらいだったのでだんだんと容量が大きくな
 
 あたりが使えた
 
-> 参考: [macOS Montereryでできるようになった15のコト](https://www.gizmodo.jp/2021/11/mac-os-monterey-15-things.html)
+
 
 
 ## 不具合
